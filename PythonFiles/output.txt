@@ -1,0 +1,11 @@
+lexical Analysis 
+a Lexical analysis les the First phase of a companero It takes the modlaqled source code from 
+language preprocessors that are written len the form of sentences The lexical analyzer 
+breaks these syntaxes santo a series of tokens by removing any whitespace or comments lan 
+the source code 
+a lexical Analyze reads the source program len character by character ways and reams the 
+token of the source program 
+a Normally a lexical analyzer doesnt ream a last of tokens lat reams a token only when 
+the parser asks a token from ltr 
+a Lexical analyzer may also perform other auxlmllmaw operation like removing redundant 
+whate space removing token separator take semlmcolon1 etc 
